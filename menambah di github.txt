@@ -1,0 +1,4 @@
+menambah folder.
+git add . (untuk menambah text)
+git commit -m "namanya siapa"
+git push
